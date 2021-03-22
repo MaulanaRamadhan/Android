@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UAS_Mobile_MusicPlayer</string>
+    <string name="music_player">MUSIC PLAYER</string>
+    <string name="profil">PROFIL</string>
+    <string name="login">LOGIN</string>
+    <string name="login_music_player">LOGIN MUSIC PLAYER</string>
+    <string name="halaman_login">Halaman Login</string>
+    <string name="halaman_profil">Profil Saya</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="nim">NIM      :   00000012101</string>
+    <string name="nama">Nama     :   Maulana Ramadhan Kusdianto</string>
+    <string name="kelas">Kelas    :   BL</string>
+    <string name="halaman_listlagu">List Lagu</string>
+    <string name="logout">logout</string>
+    <string name="todo">TODO</string>
+</resources>
